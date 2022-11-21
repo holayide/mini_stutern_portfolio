@@ -79,10 +79,9 @@ p {
     grid-template-columns: 1fr 1fr;
     gap: 10px;
 }
+
 .skills ul li{
     border: 1px solid hsl(0, 6%, 81%);
-    /* background-color: #999; */
     text-align: center;
     box-shadow: 5px 2px hsl(0, 6%, 81%);
-    /* color: #999; */
 }
